@@ -37,3 +37,5 @@ add a number of walkthroughs, showing things such as:
 
 1. Install dependencies: `yarn`
 1. Start the dev server: `yarn dev`
+## go to localhost:3002
+
